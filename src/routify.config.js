@@ -13,6 +13,5 @@ module.exports = {
     "svelte",
     "md",
     "svx"
-  ],
-  "started": "2022-10-11T09:08:37.746Z"
+  ]
 }
