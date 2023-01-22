@@ -1,3 +1,4 @@
+<!--routify:options bundle=true -->
 <script lang="ts">
   import Footer from "$src/components/Footer.svelte";
   import MegaNavigation from "$src/nav/MegaNavigation.svelte";
